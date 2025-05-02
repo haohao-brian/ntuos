@@ -5,7 +5,7 @@
 sudo apt install build-essential git gdb qemu-system
 sudo apt install gcc-riscv64-linux-gnu g++-riscv64-linux-gnu binutils-riscv64-linux-gnu
 ```
-下載xv6源碼：
+下載xv6源碼：(下載我的xv6-riscv-riscv.zip也行)
 ```
 git clone https://github.com/mit-pdos/xv6-riscv.git
 ```
